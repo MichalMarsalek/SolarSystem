@@ -1,5 +1,7 @@
-# Flow solver
+# Copernicus Solar system model
 
-This program lets you input a level from the game Flow and then solves it.
+This is solar system animation I wrote back in May 2013 for a competition.
+It can be used for example as a screensaver.
 
-PDF documentation in czech is provided.
+Speed of time can be adjusted and labels and trajectories can be toggled on/off.
+![](preview.png)
